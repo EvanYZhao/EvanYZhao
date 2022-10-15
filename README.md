@@ -20,7 +20,7 @@
    <img align='left' alt='Instagram: evanzhao_' src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' width=42px/>
   </a>
   <a href="https://www.linkedin.com/in/evan-zhao-8863a4229/">
-  <img align='left' alt='Linkedin: Evan Zhao' src='https://user-images.githubusercontent.com/96805283/195971291-b60584e9-d020-4c01-8271-f9e1d3fd750e.png' width=48px/>
+  <img align='left' alt='Linkedin: Evan Zhao' src='https://user-images.githubusercontent.com/96805283/195971291-b60584e9-d020-4c01-8271-f9e1d3fd750e.png' width=50px/>
    </a>
 <!---
 EvanYZhao/EvanYZhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
