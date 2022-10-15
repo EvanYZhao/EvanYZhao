@@ -15,9 +15,10 @@
 
 <h1>Let's Get to Know Each Other!</h1>
   <p>I'd love to get to know you better so please don't hesitate to reach out!</p>
-  <ul>
-  <li>Instagram: evanzhao_</li>
-  </ul>
+  <a href='https://www.instagram.com/evanzhao_/' target="_blank" rel="noopener noreferrer">
+   <img align='left' alt='Instagram: evanzhao_' src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' width=22px/>
+  </a>
+  <img align='left' alt='Linkedin: Evan Zhao' src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' width=85px/>
 <!---
 EvanYZhao/EvanYZhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
