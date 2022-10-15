@@ -3,7 +3,7 @@
    to type this 😅. Anyways, less on the topic of bad ideas, I'm currently a sophomore studying Computer Science at UCLA. I am incredibly passionate 
    about being able to help people in a indirect, yet impactful way through the code I write. As a result, I'm extremely explorative 
    and often find myself dabbling in new languages and interfaces to expand my technical repertoire. Even if my projects end up targeting an 
-   extraordinarily niche audience, I'm beyond thrilled to know that I'm capable of helping at least one person through their day.
+   extraordinarily niche audience, I'm beyond thrilled to know that I'm capable of helping at least one person get through their day.
  
 <h1>Hobbies 🧳</h1>
 <ul>
