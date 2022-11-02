@@ -9,7 +9,7 @@
    <li>🎵 Avid Musician - Saxophonist in <a href="https://www.instagram.com/goingoutsideband/">@goingoutsideband</a> on Instagram!!! 
           Shameless plug yes, I know. </li>
   <li>🏋🎾 Weightlifting Athlete - I love chasing numbers in the gym and tennis balls on the court. I don't suck, I promise.</li>
-  <li>👖 Wardrobe Enthusiast - I have a big soft spot for aesthetics as it helps me get out of bed in the mornings 😅.</li>
+  <li>👖 Wardrobe Enthusiast - I have a big soft spot for aesthetics as it helps me get out of bed in the mornings 😅</li>
 </ul>
 
 <h1>Let's Get to Know Each Other!</h1>
