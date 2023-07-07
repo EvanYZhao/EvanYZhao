@@ -1,8 +1,5 @@
 <h1>Nice to meet you!</h1>
-<p>My name is Evan and I'm currently a sophomore studying Computer Science at UCLA. I am incredibly passionate 
-   about being able to help people in a indirect, yet impactful way through the code I write. As a result, I'm extremely explorative 
-   and often find myself dabbling in new languages and interfaces to expand my technical repertoire. Even if my projects end up targeting a niche audience, I'm beyond thrilled to know that I'm capable of helping at least one person get through their day.
- 
+<p> My name is Evan, a junior studying Computer Science at UCLA. I'm passionate about aiding research through computational analysis and mobile app development, two separate yet equally exciting areas. I enjoy leveraging computational techniques to uncover insights for research, while also creating user-friendly mobile apps that solve real-world problems. Additionally, I'm open to exploring various fields within software development, eager to expand my knowledge and contribute to impactful projects across different domains.</p>
 <h1>Hobbies 🧳</h1>
 <ul>
    <li>🎵 Avid Musician - Saxophonist in <a href="https://www.instagram.com/goingoutsideband/">@goingoutsideband</a> on Instagram!!! 
@@ -13,9 +10,6 @@
 
 <h1>Let's Get to Know Each Other!</h1>
   <p>If you would like to chat with me, please don't hesitate to reach out!</p>
-  <a href="https://www.instagram.com/evanzhao_/">
-   <img align='left' alt='Instagram: evanzhao_' src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' width=42px/>
-  </a>
   <a href="https://www.linkedin.com/in/evan-zhao-8863a4229/">
   <img align='left' alt='Linkedin: Evan Zhao' src='https://user-images.githubusercontent.com/96805283/195971291-b60584e9-d020-4c01-8271-f9e1d3fd750e.png' width=50px/>
    </a>
