@@ -1,5 +1,5 @@
 <h1>Nice to meet you!</h1>
-<p> My name is Evan, a junior studying Computer Science at UCLA. I'm passionate about aiding research through computational analysis and mobile app development, two separate yet equally exciting areas. I enjoy leveraging computational techniques to uncover insights for research, while also creating user-friendly mobile apps that solve real-world problems. Additionally, I'm open to exploring various fields within software development, eager to expand my knowledge and contribute to impactful projects across different domains.</p>
+<p> My name is Evan, a rising junior studying Computer Science at UCLA! </p>
 <h1>Hobbies 🧳</h1>
 <ul>
    <li>🎵 Avid Musician - Saxophonist in <a href="https://www.instagram.com/goingoutsideband/">@goingoutsideband</a> on Instagram!!! 
