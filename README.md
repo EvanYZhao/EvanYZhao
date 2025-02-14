@@ -1,5 +1,5 @@
 <h1>Nice to meet you!</h1>
-<p> My name is Evan, a rising junior studying Computer Science at UCLA! </p>
+<p> My name is Evan, a current undergraduate student studying Computer Science at UCLA! </p>
 <h1>Hobbies 🧳</h1>
 <ul>
    <li>🎵 Avid Musician - Saxophonist in <a href="https://www.instagram.com/goingoutsideband/">@goingoutsideband</a> on Instagram!!! 
